@@ -10,7 +10,7 @@ git clone
 cd
 pip install instaloader 
 chmod +x *
-python 
+python guessesInsagram.py 
 
 termux :
 
@@ -22,7 +22,7 @@ git clone
 cd 
 pip install instaloader 
 chmod +x *
-python 
+python guessesInsagram.py 
 
 telegram :  https://t.me/shankar_apk7
 
