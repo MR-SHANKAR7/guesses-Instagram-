@@ -6,25 +6,25 @@ hack th guesses Instagram
 #### Follow all new on [YouTube ](https://www.youtube.com/@shankarapps)
 # INSTALL FOR KALI LINUX :
 
-<code>apt update 
-<code>apt upgrate
-<code>apt install python
-<code>apt install python2
-<code>git clone https://github.com/MR-SHANKAR7/guesses-Instagram-.git
-<code>cd guesses-Instagram-
-<code>pip install instaloader 
-<code>chmod +x *
-<code>python guessesInsagram.py 
+<code>apt update </code>
+<code>apt upgrate</code>
+<code>apt install python</code>
+<code>apt install python2</code>
+<code>git clone https://github.com/MR-SHANKAR7/guesses-Instagram-.git</code>
+<code>cd guesses-Instagram-</code>
+<code>pip install instaloader </code>
+<code>chmod +x *</code>
+<code>python guessesInsagram.py </code> 
 
 # INSTALL FOR TERMUX :
 
-<code>pkg update 
-<code>pkg upgrate
-<code>pkg  install python
-<code>pkg  install python2
-<code>git clone https://github.com/MR-SHANKAR7/guesses-Instagram-.git
-<code>cd guesses-Instagram-
-<code>pip install instaloader 
-<code>chmod +x *
-<code>python guessesInsagram.py 
+<code>pkg update </code>
+<code>pkg upgrate</code>
+<code>pkg  install python</code>
+<code>pkg  install python2</code>
+<code>git clone https://github.com/MR-SHANKAR7/guesses-Instagram-.git</code>
+<code>cd guesses-Instagram-</code>
+<code>pip install instaloader </code>
+<code>chmod +x *</code>
+<code>python guessesInsagram.py </code>
   
