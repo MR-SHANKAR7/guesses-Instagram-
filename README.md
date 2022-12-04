@@ -1,7 +1,7 @@
 # guesses-Instagram-
-# SHANKAR APPS 007
 hack th guesses Instagram 
-kali linux :
+# SHANKAR APPS 007
+# INSTALL FOR KALI LINUX :
 
 apt update 
 apt upgrate
@@ -13,7 +13,7 @@ pip install instaloader
 chmod +x *
 python guessesInsagram.py 
 
-termux :
+# INSTALL FOR TERMUX :
 
 pkg update 
 pkg upgrate
